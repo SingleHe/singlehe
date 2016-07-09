@@ -1,0 +1,20 @@
+{
+  "name": "singlehe",
+  "version": "1.0.0",
+  "description": "singlehe",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcx-seima/singlehe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcx-seima/singlehe/issues"
+  },
+  "homepage": "https://github.com/lcx-seima/singlehe#readme",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
